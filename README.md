@@ -1,4 +1,5 @@
 Firehiwot Tesfaye 1501207
+AI tool:chat gpt,deepseek
 Library – Desktop Library Management System
 
 MyLibrary  is a Windows Forms (WinForms) desktop application built in C# that allows management of a small library’s books and borrowers. It supports login authentication, book and borrower CRUD operations, book issuing/returning, and basic reporting features. The application uses a SQL-based database and ADO.NET for data access.
